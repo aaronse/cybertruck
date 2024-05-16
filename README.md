@@ -59,11 +59,39 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 
 ### Panel Dimensions
 
+
+
+<table>
+<tr><td>
+
 ![alt text](img/panel-fusion-iso.png)
+
+</td><td>
+
+<mark>TODO: Add Fusion file if/when someone asks</mark>
+
+</td></tr>
+
+<tr><td>
 
 ![alt text](img/panel-frunk-hood.png)
 
+</td><td>
 
+[frunk-hood.dxf](scan/frunk-hood.dxf)
+
+</td></tr>
+<tr><td>
+
+![alt text](img/panel-frunk-front.png)
+
+</td><td>
+
+[frunk-front.dxf](scan/frunk-front.dxf)
+
+</td></tr>
+
+</table>
 
 
 ## Reference
@@ -75,12 +103,12 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 <td>
 
   ![alt text](img/tsla-svc-front.png)
-[source](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-8C18C379-1B7B-479C-8A33-D59ECE467C45-online-en-US.jpg)
+  [source](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-A882616D-D649-4B76-872C-FC1AA0593259-online-en-US.jpg)
 
 </td><td>
 
   ![alt text](img/tsla-svc-side.png)
-  [source](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-A882616D-D649-4B76-872C-FC1AA0593259-online-en-US.jpg)
+[source](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-8C18C379-1B7B-479C-8A33-D59ECE467C45-online-en-US.jpg)
 
   </td><td>
 
