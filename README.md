@@ -22,14 +22,13 @@ Cybertruck related notes, specs, dimensions, mods, references and maybe some cod
 
 ## Dimensions
 
-Couldn't find dimensions on the interwebs that were priced at a point I was willing to pay.
+Couldn't find dimensions on the interwebs that were priced at a point I was willing to pay (e.g. $1k).  So...  I burned cash and time buying and learning to use a scanner, littering the panels reflective marker dots...  Removing the DOTs will be a PITA.
 
-So, I burned way more cash and time buying a scanner and reflective marker dots...
-- [3D scanner](https://www.amazon.com/dp/B0CNVQGVMM)
-  - Wired is PITA to work with.  There's a $150 kit for wireless, consider using if do lots of large scans.
-  - Comes with 
-- [6.0mm 3D Scanning Marker dot reference points](https://www.amazon.com/dp/B09Q86JP3Q)
-  - Adhes
+- $320 [3D scanner](https://www.amazon.com/dp/B0CNVQGVMM)
+  - Came with ~400 dots
+  - Dancing with the Wired Scanner is PITA.  Note there's a $160 [Wireless upgrade kit](Wireless Scanning Kit), consider using if do lots of large scans.
+- $17 [Qty 600, 6.0mm 3D Scanning Marker dot reference points](https://www.amazon.com/dp/B09Q86JP3Q)
+  - Adhesive on these retroreflective dots is really sticky, much harder to remove than the dots that came with the Creality Ferret SE scanner.  Very time consuming to remove!
 
 
 <table><tr>
