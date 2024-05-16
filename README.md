@@ -22,7 +22,7 @@ Cybertruck related notes, specs, dimensions, mods, references and maybe some cod
 
 ## Dimensions
 
-Couldn't find dimensions on the interwebs that were priced at a point I was willing to pay (e.g. $1k).  So...  I burned cash and time buying and learning to use a scanner, littering the panels reflective marker dots...  Removing the DOTs will be a PITA.
+Couldn't find dimensions on the interwebs that were priced at a point I was willing to pay (e.g. saw prices in $1k range for detailed scans).  So...  Decided to burn cash and time buying and learning to use a scanner, littering the panels reflective marker dots...  Removing the DOTs will be a PITA.
 
 - $320 [3D scanner](https://www.amazon.com/dp/B0CNVQGVMM)
   - Came with ~400 dots
