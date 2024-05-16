@@ -81,6 +81,7 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 [frunk-hood.dxf](scan/frunk-hood.dxf)
 
 </td></tr>
+
 <tr><td>
 
 ![alt text](img/panel-frunk-front.png)
@@ -91,7 +92,20 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 
 </td></tr>
 
+<tr><td>
+
+![alt text](img/dim-fr-fender-fusion-wrong.png)
+
+</td><td>
+
+[front-right-fender.dxf](scan/front-right-fender.dxf)
+
+</td></tr>
+
+
 </table>
+
+
 
 
 ## Reference
