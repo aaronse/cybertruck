@@ -94,7 +94,8 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 
 <tr><td>
 
-![alt text](img/dim-fr-fender-fusion-wrong.png)
+![alt text](img/panel-front-right-fender.png)
+
 
 </td><td>
 
