@@ -104,8 +104,24 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 </td></tr>
 
 
+<tr><td>
+
+![alt text](img/panel-front-right-passenger.png)
+
+</td><td>
+
+[front-right-passenger.dxf](scan/front-right-passenger.dxf)
+
+</td></tr>
+
+
 </table>
 
+
+TODO:
+
+- Fix rear right passenger mirror dimensions...
+![alt text](image.png)
 
 
 
