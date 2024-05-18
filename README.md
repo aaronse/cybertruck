@@ -64,6 +64,8 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 <table>
 <tr><td>
 
+![alt text](img/bed-fusion-iso.png)
+
 ![alt text](img/panel-fusion-iso.png)
 
 </td><td>
@@ -79,6 +81,8 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 </td><td>
 
 [frunk-hood.dxf](scan/frunk-hood.dxf)
+
+- TODO: Remove Markers from 3D Scanned Mesh
 
 </td></tr>
 
@@ -111,6 +115,18 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 </td><td>
 
 [front-right-passenger.dxf](scan/front-right-passenger.dxf)
+
+</td></tr>
+
+
+<tr><td>
+
+![alt text](img/panel-rear-right-passenger.png)
+![alt text](image-1.png)
+
+</td><td>
+
+[rear-right-passenger.dxf](scan/rear-right-passenger.dxf)
 
 </td></tr>
 
