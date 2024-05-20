@@ -59,6 +59,7 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 
 ### Panel Dimensions
 
+Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels > Closure Panels](https://epc.tesla.com/en-US/catalogs/b685e77a-0f90-4a81-a1a5-3f3417542754/categories/18b8b689-5e5e-4d87-b759-afad9e0beded/subcategories/130fa872-0d60-44c9-9f14-72f4dc4b89fd/systemGroups/90ce547b-790a-4989-83f2-9532d8c9afc1)
 
 
 <table>
@@ -122,7 +123,7 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 <tr><td>
 
 ![alt text](img/panel-rear-right-passenger.png)
-![alt text](image-1.png)
+
 
 </td><td>
 
@@ -131,20 +132,85 @@ Couldn't find dimensions on the interwebs that were priced at a point I was will
 </td></tr>
 
 
+<tr><td>
+
+![right-bed-side-outer](img/panel-right-bed-side-outer.png)
+
+</td><td>
+
+[right-bed-side-outer.dxf](scan/right-bed-side-outer.dxf)
+
+</td></tr>
+
+
+<tr><td>
+
+![alt text](img/panel-right-roof-rail-trim.png)
+
+</td><td>
+
+[right-roof-rail-trim.dxf](scan/right-roof-rail-trim.dxf)
+
+</td></tr>
+
+
+
+
+
 </table>
 
 
 TODO:
-
+- Rename Panels to match Tesla Service manual.
 - Fix rear right passenger mirror dimensions...
 ![alt text](image.png)
 
 
+# Cybertruck Wrapping
+
+## Wrap Options
+- $1200 kit, limited colors https://cybertruckco.com/product/cybertruckco-precut-ppf-wrap-kits-made-in-the-usa
+- $2300 kit, https://tesbros.com/products/diy-protection-ppf-kit-for-cybertruck?variant=45118499848410
+- $xxxx kit, https://tsportline.com/collections/tesla-cybertruck-stainless-steel-protection-film-sspf-car-wraps-ceramic-treatment/products/tesla-cybertruck-diy-color-change-vinyl-wrap-kit?utm_medium=product_shelf&utm_source=youtube
+  - https://www.youtube.com/watch?v=s9qFswHlw1M&t=16s
+    - surface prep solution, remove dirt/wax/oil/polish/containemants
+    - claybar microfinishing compound
+    - microfiber towels
+    - Torx 40 for side mirror removal
+    - Slip solution (green) Soap with distilled water
+    - Stick solution (red) 25% Alcohol with distilled water
+    - Squidgee
+    - Knives and syringes
+    - Install in 70 degree, clean dust free, well lit garage, stool.
+    - CLEAN EVERYTHING, INSIDE and OUTSIDE, CLEANS NOOKS AND CRANNYS.
+
+
+
+## Removing Parts for wrapping
+
+- Removing [Fender flares](https://epc.tesla.com/en-US/catalogs/b685e77a-0f90-4a81-a1a5-3f3417542754/categories/18ebc72e-92dc-4af3-b468-88274cf3961f/subcategories/302683a0-1065-4f6a-9e78-fc3ac973e2b6/systemGroups/e3a06599-e46f-41af-8017-109d6cac00aa
+).
+  - Fender flares are attached to [Wheel Arch Liners](https://epc.tesla.com/en-US/catalogs/b685e77a-0f90-4a81-a1a5-3f3417542754/categories/18ebc72e-92dc-4af3-b468-88274cf3961f/subcategories/549d6bb6-abca-41d7-afb6-c9668575b643/systemGroups/d19152cf-2ee7-480e-9334-d301ba86a7f2) using [RVT PUSH - PULL 8X18X20.0 0M1M 1006521-00-A] fasteners.
+  
+  - **NOTE:**  Observed some _Wrappers_ go so far as to remove the [FORE FENDER FLARE CARRIERS] attached ([M6 x24](BLT,HF,M6X24[88],G1009,NJ,TU01
+1946638-00-A) ) to the stainless steel closure panels.
+    - TODO:  Decide whether to do the same.  24/5/19, currently just been sketching assuming just Fender Flare cover is being removed.
+    - Java Kim visits TSportLine https://www.youtube.com/watch?v=csHHjPKi18g
+      - Inozetek film
+      - ![alt text](image-1.png)
+      - ![alt text](image-2.png)
+
+  
+   
+
+- How to remove/assemble side mirrors [Exterior Mirrors - Exterior Mirror Assembly - Electromechanical - LH (Remove and Install)](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-E5FC5791-2CCB-49E2-A210-2300460B0063.html)
 
 ## Reference
 
 - [Tesla's Cybertruck Service Manual](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/index.html)
   - _"10 - Body"_ >> _"1010 - Body Panels"_ >> [_"Body Panel (Refinish)"_](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-D33D78C9-9BCD-46CB-885C-52B4F482852C.html) links to [Exterior Stainless Steel Panel Refinishing](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-D33D78C9-9BCD-46CB-885C-52B4F482852C.html), which contains the following helpful profile images.  Assuming (?) actual dimensions haven't changed, maybe these can be used to help calibrate/refine/validate 3D scanned models.
+
+
 
 <table><tr>
 <td>
