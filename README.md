@@ -63,6 +63,17 @@ Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels
 
 
 <table>
+
+<tr><td>
+
+![alt text](img/layout-5'x60'.png)
+
+</td><td>
+
+[scan/layout-5'x60'.dxf](scan/layout-5'x60'.dxf)
+
+</td></tr>
+
 <tr><td>
 
 ![alt text](img/bed-fusion-iso.png)
@@ -172,6 +183,7 @@ TODO:
 - $1200 kit, limited colors https://cybertruckco.com/product/cybertruckco-precut-ppf-wrap-kits-made-in-the-usa
 - $2300 kit, https://tesbros.com/products/diy-protection-ppf-kit-for-cybertruck?variant=45118499848410
 - $xxxx kit, https://tsportline.com/collections/tesla-cybertruck-stainless-steel-protection-film-sspf-car-wraps-ceramic-treatment/products/tesla-cybertruck-diy-color-change-vinyl-wrap-kit?utm_medium=product_shelf&utm_source=youtube
+  - Great selection of info, prep and videos for [installing vinyl wrap](https://tsportline.com/pages/tesla-diy-wrap-ppf-installation-instructions-and-support#wrap) or [installing ppf wrap](https://tsportline.com/pages/tesla-diy-wrap-ppf-installation-instructions-and-support#ppf).
   - https://www.youtube.com/watch?v=s9qFswHlw1M&t=16s
     - surface prep solution, remove dirt/wax/oil/polish/containemants
     - claybar microfinishing compound
