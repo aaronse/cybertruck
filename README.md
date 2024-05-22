@@ -70,7 +70,7 @@ Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels
 
 </td><td>
 
-[scan/layout-5'x60'.dxf](scan/layout-5'x60'.dxf)
+[Combined layout-5'x60'.dxf](scan/layout-5'x60'.dxf)
 
 </td></tr>
 
@@ -165,6 +165,15 @@ Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels
 </td></tr>
 
 
+<tr><td>
+
+![alt text](img/panel-rear-tailgate.png)
+
+</td><td>
+
+[rear-tailgate-template.dxf](scan/rear-tailgate-template.dxf)
+
+</td></tr>
 
 
 
