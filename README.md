@@ -104,7 +104,8 @@ Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels
 
 </td><td>
 
-[frunk-front.dxf](scan/frunk-front.dxf)
+[frunk-front-rolled.dxf](scan/frunk-front-rolled.dxf)
+[frunk-front-edge.dxf](scan/frunk-front-edge.dxf)
 
 </td></tr>
 
