@@ -92,9 +92,8 @@ Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels
 
 </td><td>
 
-[frunk-hood.dxf](scan/frunk-hood.dxf)
-
-- TODO: Remove Markers from 3D Scanned Mesh
+- [frunk-hood-rolled.dxf](scan/frunk-hood-rolled.dxf)
+- [frunk-hood-edge.dxf](scan/frunk-hood-edge.dxf)
 
 </td></tr>
 
@@ -104,8 +103,8 @@ Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels
 
 </td><td>
 
-[frunk-front-rolled.dxf](scan/frunk-front-rolled.dxf)
-[frunk-front-edge.dxf](scan/frunk-front-edge.dxf)
+- [frunk-front-rolled.dxf](scan/frunk-front-rolled.dxf)
+- [frunk-front-edge.dxf](scan/frunk-front-edge.dxf)
 
 </td></tr>
 
@@ -183,6 +182,7 @@ Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels
 
 TODO:
 - Rename Panels to match Tesla Service manual.
+- TODO: Remove Markers from 3D Scanned Mesh
 - Fix rear right passenger mirror dimensions...
 ![alt text](image.png)
 
