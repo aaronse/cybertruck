@@ -112,10 +112,11 @@ Panel Names from [Tesla Service > Cybertruck US > 10 - BODY > 1010 - Body Panels
 
 ![alt text](img/panel-front-right-fender.png)
 
-
 </td><td>
 
-[front-right-fender.dxf](scan/front-right-fender.dxf)
+- [front-fenders-rolled.dxf](scan/front-fenders-rolled.dxf)
+
+- [front-fenders-edge.dxf](scan/front-fenders-edge.dxf)
 
 </td></tr>
 
