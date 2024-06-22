@@ -223,7 +223,28 @@ TODO:
       - ![alt text](image-1.png)
       - ![alt text](image-2.png)
 
-  
+### Bed Side Outer Panels
+
+Rolling edges of [Bed Side Outer Panels] requires either tucking film into some tight spots.  Or, alternatively, you can burn time and maybe break/lose some parts like me and remove some of the trim pieces to help roll film edges large enough to not worry about peeling later...
+
+- #### Trim parts to remove:
+  - [Cybertruck Parts > 12 - EXTERIOR FITTINGS > 1220 - Exterior Trim > Truck Bed Exterior Trim](https://epc.tesla.com/en-US/catalogs/b685e77a-0f90-4a81-a1a5-3f3417542754/categories/18ebc72e-92dc-4af3-b468-88274cf3961f/subcategories/302683a0-1065-4f6a-9e78-fc3ac973e2b6/systemGroups/6e5a9888-fd19-49fd-8878-9a40a1dbde81)
+    - [Remove BED SIDE APPLIQUE ASSEMBLY by pulling up starting near tail gate](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-415D63EA-024A-4B3D-8BC7-78356E4B7F71.html).
+      - Follow service docs, additionally, AVOID overly bending the easy to snap/break Bed Side Applique.
+      - Left and right sides each use 10x "DGE CLIP,6MM,1.5-2.5GRP,POM,WH 1496105-00-B".  Mentioning, because I 8/10 dropped into bed side voids during disassembly.  Retrieving requires removing more panels, nope...  They're just $1 each.
+  - [Cybertruck Parts > 12 - EXTERIOR FITTINGS
+  1220 - Exterior Trim > Exterior Trim Fittings](https://epc.tesla.com/en-US/catalogs/b685e77a-0f90-4a81-a1a5-3f3417542754/categories/18ebc72e-92dc-4af3-b468-88274cf3961f/subcategories/302683a0-1065-4f6a-9e78-fc3ac973e2b6/systemGroups/41188d7c-d97b-4cd0-8fda-2a5a55c6ab79)
+    - Remove couple of the trim pieces between rear doors and bed side outer panels to help expose enough panel edge for rolling the film.
+      - Remove BED SIDE BAFFLE APPLIQUE ( 1776409-00-D, 1776410-00-D), see [Remove/install "Sail Baffle Applique"](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-109A484A-F96A-4244-8E2A-A2006CFC7729.html)
+      - Remove SAIL BAFFLE CLOSEOUT (1848587-00-D, 1848588-00-D), see [Remove/install "Saile Baffle Closeout](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-68C6F358-F23C-47EB-A1DA-C53783D0C6FA.html)
+
+
+  ## Replacing Parts broken during wrapping
+
+- $15 (1776410-00-D) BED SIDE BAFFLE APPLIQUE - RIGHT HAND
+  - Broke 2/3 clip mounts during disassembly, so I replaced the part.
+- $1 each (lost ~8), (1496105-00-B) EDGE CLIP,6MM,1.5-2.5GRP,POM,WH
+
    
 
 - How to remove/assemble side mirrors [Exterior Mirrors - Exterior Mirror Assembly - Electromechanical - LH (Remove and Install)](https://service.tesla.com/docs/Cybertruck/ServiceManual/en-us/GUID-E5FC5791-2CCB-49E2-A210-2300460B0063.html)
