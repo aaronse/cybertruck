@@ -1,0 +1,242 @@
+{
+ "wall_mm_assumed": 2.5,
+ "voxel_mm": 0.5,
+ "kerf_mm": 0.4,
+ "source": {
+  "file": "cy_right_3.obj",
+  "faces": 1000003
+ },
+ "mirror_scan": {
+  "faces": 24410,
+  "median_edge_mm": 3.45,
+  "area_cm2": 1146.8
+ },
+ "smoothing_vs_scan_mm": {
+  "mean": 0.024,
+  "max": 0.255,
+  "samples": 40000
+ },
+ "scan_to_model": [
+  [
+   -0.992832,
+   0.038993,
+   -0.112981,
+   -692.643116
+  ],
+  [
+   0.113067,
+   0.0,
+   -0.993587,
+   422.786483
+  ],
+  [
+   -0.038743,
+   -0.999239,
+   -0.004409,
+   -50.789234
+  ],
+  [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "datums_model_frame": {
+  "door_ledge_plane": {
+   "point": [
+    0,
+    0,
+    0
+   ],
+   "normal": [
+    -0.0001,
+    0.1093,
+    0.9938
+   ]
+  },
+  "window_plane": {
+   "point": [
+    92.8,
+    -161.2,
+    289.1
+   ],
+   "normal": [
+    0.0101,
+    0.9007,
+    0.4347
+   ]
+  },
+  "split_plane": {
+   "point": [
+    201.3,
+    140.31,
+    55.78
+   ],
+   "normal": [
+    0.0268,
+    -0.1166,
+    0.9928
+   ],
+   "rms_mm": 0.46
+  },
+  "glass_opening_rim_plane": {
+   "point": [
+    219.5,
+    70.2,
+    57.9
+   ],
+   "normal": [
+    0.392,
+    -0.866,
+    -0.309
+   ],
+   "rms_mm": 4.04
+  }
+ },
+ "parts": {
+  "skull-cap": {
+   "faces": 90000,
+   "faces_before_reduction": 1247944,
+   "watertight": true,
+   "volume_cm3": 129.4,
+   "bounds_mm": [
+    [
+     -37.5,
+     -18.4,
+     49.7
+    ],
+    [
+     297.2,
+     149.1,
+     196.0
+    ]
+   ],
+   "size_mm": [
+    334.6,
+    167.5,
+    146.3
+   ],
+   "reduction_hausdorff_mm": {
+    "max": 0.129,
+    "mean": 0.0024,
+    "samples_each_way": 120000
+   },
+   "scan_to_part_mm": {
+    "mean": 0.027,
+    "p95": 0.063,
+    "p99": 0.19,
+    "samples": 27921
+   }
+  },
+  "lower-housing": {
+   "faces": 75000,
+   "faces_before_reduction": 524166,
+   "watertight": true,
+   "volume_cm3": 61.3,
+   "bounds_mm": [
+    [
+     75.6,
+     19.3,
+     2.6
+    ],
+    [
+     296.8,
+     148.7,
+     58.3
+    ]
+   ],
+   "size_mm": [
+    221.1,
+    129.4,
+    55.7
+   ],
+   "reduction_hausdorff_mm": {
+    "max": 0.149,
+    "mean": 0.002,
+    "samples_each_way": 117468
+   },
+   "scan_to_part_mm": {
+    "mean": 0.029,
+    "p95": 0.087,
+    "p99": 0.148,
+    "samples": 13053
+   }
+  },
+  "base": {
+   "faces": 60000,
+   "faces_before_reduction": 774162,
+   "watertight": true,
+   "volume_cm3": 88.0,
+   "bounds_mm": [
+    [
+     -60.5,
+     -32.7,
+     2.1
+    ],
+    [
+     108.0,
+     143.3,
+     63.9
+    ]
+   ],
+   "size_mm": [
+    168.5,
+    176.0,
+    61.8
+   ],
+   "reduction_hausdorff_mm": {
+    "max": 0.093,
+    "mean": 0.0045,
+    "samples_each_way": 109986
+   },
+   "scan_to_part_mm": {
+    "mean": 0.031,
+    "p95": 0.09,
+    "p99": 0.162,
+    "samples": 18920
+   }
+  },
+  "glass-placeholder": {
+   "faces": 88,
+   "watertight": true,
+   "size_mm": [
+    159.8,
+    118.7,
+    156.3
+   ],
+   "note": "not scanned: flat plate inside the hull of the opening rim, 5 mm inset, 6 mm recessed, 2 mm thick"
+  }
+ },
+ "scan_to_model_mm": {
+  "samples": 60000,
+  "mean": 0.028,
+  "within_0.1": 0.9706,
+  "within_0.25": 0.992,
+  "within_1.0": 0.9982,
+  "note": "points farther than 1 mm are seams (kerf), trimmed edges and scan fragments that belong to no part"
+ },
+ "base_foot_mm": {
+  "length_x": 162.4,
+  "width_y": 55.7,
+  "note": "outer size of the base 4 to 8 mm above the door ledge"
+ },
+ "assembly_bounds_mm": [
+  [
+   -60.5,
+   -32.7,
+   2.1
+  ],
+  [
+   297.2,
+   149.1,
+   196.0
+  ]
+ ],
+ "assembly_size_mm": [
+  357.7,
+  181.8,
+  193.9
+ ],
+ "seconds": 165
+}

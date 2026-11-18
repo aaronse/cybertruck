@@ -2,6 +2,8 @@
 
 Cybertruck related notes, specs, dimensions, mods, references and maybe some code even...
 
+Research spikes live in [research/](research/), starting with [exterior side mirrors](research/exterior-side-mirrors/). Models built from them live in [models/](models/): the first is a [multi-part right-hand mirror](models/exterior-side-mirror/).
+
 <table><tr>
 <td>
 

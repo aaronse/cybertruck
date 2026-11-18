@@ -1,0 +1,498 @@
+{
+ "summary": {
+  "patches": 17,
+  "patches_read_back": 17,
+  "readback_vs_scan_mm": {
+   "rms": 0.191,
+   "max": 0.951,
+   "points": 729
+  },
+  "scan_area_covered": 0.679,
+  "worst_fit_rms_mm": 0.286,
+  "area_weighted_fit_rms_mm": 0.211,
+  "settings": {
+   "max_angle_deg": 9.0,
+   "min_area_mm2": 600.0,
+   "margin_mm": 4.0,
+   "grid": 9
+  }
+ },
+ "patches": [
+  {
+   "name": "skull-cap-face-01",
+   "part": "skull-cap",
+   "area_cm2": 212.8,
+   "scan_vertices": 1883,
+   "size_mm": [
+    263,
+    162
+   ],
+   "outward_normal": [
+    -0.07,
+    0.695,
+    0.715
+   ],
+   "centre_mm": [
+    98.4,
+    89.8,
+    129.1
+   ],
+   "fit_rms_mm": 0.201,
+   "fit_max_mm": 1.065,
+   "plane_rms_mm": 1.07,
+   "radii_mm": [
+    1527,
+    3942
+   ],
+   "readback_rms_mm": 0.143
+  },
+  {
+   "name": "lower-housing-face-01",
+   "part": "lower-housing",
+   "area_cm2": 96.4,
+   "scan_vertices": 1009,
+   "size_mm": [
+    180,
+    97
+   ],
+   "outward_normal": [
+    0.008,
+    0.139,
+    -0.99
+   ],
+   "centre_mm": [
+    169.8,
+    88.7,
+    11.3
+   ],
+   "fit_rms_mm": 0.286,
+   "fit_max_mm": 1.182,
+   "plane_rms_mm": 0.638,
+   "radii_mm": [
+    459,
+    3613
+   ],
+   "readback_rms_mm": 0.311
+  },
+  {
+   "name": "skull-cap-face-02",
+   "part": "skull-cap",
+   "area_cm2": 89.2,
+   "scan_vertices": 958,
+   "size_mm": [
+    239,
+    51
+   ],
+   "outward_normal": [
+    0.383,
+    0.278,
+    0.881
+   ],
+   "centre_mm": [
+    193.4,
+    63.2,
+    141.4
+   ],
+   "fit_rms_mm": 0.275,
+   "fit_max_mm": 1.049,
+   "plane_rms_mm": 1.022,
+   "radii_mm": [
+    163,
+    2334
+   ],
+   "readback_rms_mm": 0.266
+  },
+  {
+   "name": "base-face-01",
+   "part": "base",
+   "area_cm2": 73.7,
+   "scan_vertices": 674,
+   "size_mm": [
+    144,
+    95
+   ],
+   "outward_normal": [
+    0.024,
+    -0.148,
+    0.989
+   ],
+   "centre_mm": [
+    -3.1,
+    15.9,
+    38.7
+   ],
+   "fit_rms_mm": 0.17,
+   "fit_max_mm": 0.784,
+   "plane_rms_mm": 0.335,
+   "radii_mm": [
+    1086,
+    2845
+   ],
+   "readback_rms_mm": 0.173
+  },
+  {
+   "name": "base-face-02",
+   "part": "base",
+   "area_cm2": 71.0,
+   "scan_vertices": 744,
+   "size_mm": [
+    170,
+    76
+   ],
+   "outward_normal": [
+    -0.049,
+    0.154,
+    -0.987
+   ],
+   "centre_mm": [
+    26.5,
+    74.0,
+    10.8
+   ],
+   "fit_rms_mm": 0.219,
+   "fit_max_mm": 1.022,
+   "plane_rms_mm": 0.55,
+   "radii_mm": [
+    397,
+    4282
+   ],
+   "readback_rms_mm": 0.268
+  },
+  {
+   "name": "skull-cap-face-03",
+   "part": "skull-cap",
+   "area_cm2": 64.9,
+   "scan_vertices": 517,
+   "size_mm": [
+    278,
+    29
+   ],
+   "outward_normal": [
+    -0.103,
+    0.979,
+    0.177
+   ],
+   "centre_mm": [
+    117.0,
+    136.8,
+    73.1
+   ],
+   "fit_rms_mm": 0.13,
+   "fit_max_mm": 0.573,
+   "plane_rms_mm": 1.917,
+   "radii_mm": [
+    232,
+    1468
+   ],
+   "readback_rms_mm": 0.122
+  },
+  {
+   "name": "lower-housing-face-02",
+   "part": "lower-housing",
+   "area_cm2": 41.1,
+   "scan_vertices": 389,
+   "size_mm": [
+    172,
+    30
+   ],
+   "outward_normal": [
+    -0.074,
+    0.982,
+    -0.171
+   ],
+   "centre_mm": [
+    164.2,
+    141.9,
+    40.4
+   ],
+   "fit_rms_mm": 0.094,
+   "fit_max_mm": 0.684,
+   "plane_rms_mm": 0.677,
+   "radii_mm": [
+    209,
+    1528
+   ],
+   "readback_rms_mm": 0.103
+  },
+  {
+   "name": "skull-cap-face-04",
+   "part": "skull-cap",
+   "area_cm2": 22.9,
+   "scan_vertices": 282,
+   "size_mm": [
+    232,
+    19
+   ],
+   "outward_normal": [
+    0.169,
+    0.526,
+    0.833
+   ],
+   "centre_mm": [
+    175.0,
+    79.4,
+    141.7
+   ],
+   "fit_rms_mm": 0.243,
+   "fit_max_mm": 0.809,
+   "plane_rms_mm": 0.985,
+   "radii_mm": [
+    43,
+    2206
+   ],
+   "readback_rms_mm": 0.201
+  },
+  {
+   "name": "base-face-03",
+   "part": "base",
+   "area_cm2": 22.3,
+   "scan_vertices": 250,
+   "size_mm": [
+    109,
+    30
+   ],
+   "outward_normal": [
+    -0.591,
+    0.784,
+    -0.191
+   ],
+   "centre_mm": [
+    2.8,
+    112.2,
+    38.1
+   ],
+   "fit_rms_mm": 0.109,
+   "fit_max_mm": 0.56,
+   "plane_rms_mm": 0.348,
+   "radii_mm": [
+    191,
+    1281
+   ],
+   "readback_rms_mm": 0.099
+  },
+  {
+   "name": "base-face-04",
+   "part": "base",
+   "area_cm2": 12.6,
+   "scan_vertices": 162,
+   "size_mm": [
+    81,
+    29
+   ],
+   "outward_normal": [
+    -0.792,
+    0.412,
+    -0.451
+   ],
+   "centre_mm": [
+    -44.5,
+    52.6,
+    25.1
+   ],
+   "fit_rms_mm": 0.206,
+   "fit_max_mm": 0.652,
+   "plane_rms_mm": 0.35,
+   "radii_mm": [
+    189,
+    945
+   ],
+   "readback_rms_mm": 0.222
+  },
+  {
+   "name": "base-face-05",
+   "part": "base",
+   "area_cm2": 12.4,
+   "scan_vertices": 161,
+   "size_mm": [
+    79,
+    29
+   ],
+   "outward_normal": [
+    -0.896,
+    -0.051,
+    0.442
+   ],
+   "centre_mm": [
+    -54.0,
+    7.8,
+    23.9
+   ],
+   "fit_rms_mm": 0.113,
+   "fit_max_mm": 0.478,
+   "plane_rms_mm": 0.198,
+   "radii_mm": [
+    181,
+    26076
+   ],
+   "readback_rms_mm": 0.121
+  },
+  {
+   "name": "lower-housing-face-03",
+   "part": "lower-housing",
+   "area_cm2": 11.3,
+   "scan_vertices": 139,
+   "size_mm": [
+    128,
+    16
+   ],
+   "outward_normal": [
+    -0.039,
+    0.38,
+    -0.924
+   ],
+   "centre_mm": [
+    146.8,
+    127.8,
+    19.1
+   ],
+   "fit_rms_mm": 0.081,
+   "fit_max_mm": 0.31,
+   "plane_rms_mm": 0.264,
+   "radii_mm": [
+    41,
+    3628
+   ],
+   "readback_rms_mm": 0.081
+  },
+  {
+   "name": "lower-housing-face-04",
+   "part": "lower-housing",
+   "area_cm2": 11.2,
+   "scan_vertices": 125,
+   "size_mm": [
+    56,
+    30
+   ],
+   "outward_normal": [
+    0.534,
+    0.74,
+    -0.409
+   ],
+   "centre_mm": [
+    269.6,
+    132.9,
+    36.0
+   ],
+   "fit_rms_mm": 0.215,
+   "fit_max_mm": 0.703,
+   "plane_rms_mm": 0.649,
+   "radii_mm": [
+    151,
+    201
+   ],
+   "readback_rms_mm": 0.227
+  },
+  {
+   "name": "skull-cap-face-05",
+   "part": "skull-cap",
+   "area_cm2": 9.5,
+   "scan_vertices": 146,
+   "size_mm": [
+    178,
+    13
+   ],
+   "outward_normal": [
+    -0.212,
+    0.61,
+    0.764
+   ],
+   "centre_mm": [
+    26.4,
+    65.4,
+    142.0
+   ],
+   "fit_rms_mm": 0.091,
+   "fit_max_mm": 0.318,
+   "plane_rms_mm": 0.767,
+   "radii_mm": [
+    34,
+    1481
+   ],
+   "readback_rms_mm": 0.086
+  },
+  {
+   "name": "skull-cap-face-06",
+   "part": "skull-cap",
+   "area_cm2": 9.4,
+   "scan_vertices": 80,
+   "size_mm": [
+    47,
+    25
+   ],
+   "outward_normal": [
+    0.635,
+    0.748,
+    0.19
+   ],
+   "centre_mm": [
+    277.9,
+    132.1,
+    67.8
+   ],
+   "fit_rms_mm": 0.181,
+   "fit_max_mm": 0.564,
+   "plane_rms_mm": 0.588,
+   "radii_mm": [
+    147,
+    256
+   ],
+   "readback_rms_mm": 0.155
+  },
+  {
+   "name": "base-face-06",
+   "part": "base",
+   "area_cm2": 9.3,
+   "scan_vertices": 175,
+   "size_mm": [
+    86,
+    38
+   ],
+   "outward_normal": [
+    -0.016,
+    0.085,
+    -0.996
+   ],
+   "centre_mm": [
+    0.5,
+    14.5,
+    4.6
+   ],
+   "fit_rms_mm": 0.258,
+   "fit_max_mm": 0.804,
+   "plane_rms_mm": 0.264,
+   "radii_mm": [
+    1003,
+    9713
+   ],
+   "readback_rms_mm": 0.255
+  },
+  {
+   "name": "base-face-07",
+   "part": "base",
+   "area_cm2": 8.2,
+   "scan_vertices": 134,
+   "size_mm": [
+    66,
+    23
+   ],
+   "outward_normal": [
+    0.951,
+    0.27,
+    -0.148
+   ],
+   "centre_mm": [
+    48.0,
+    19.6,
+    18.5
+   ],
+   "fit_rms_mm": 0.212,
+   "fit_max_mm": 0.507,
+   "plane_rms_mm": 0.213,
+   "radii_mm": [
+    2157,
+    5652
+   ],
+   "readback_rms_mm": 0.212
+  }
+ ]
+}
